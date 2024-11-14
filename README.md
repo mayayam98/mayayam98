@@ -2,9 +2,7 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on easy stuff to learn
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 mayayam98/mayayam98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
