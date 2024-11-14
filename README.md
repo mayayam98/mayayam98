@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mayayam98
-- 👀 I’m interested in music
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on easy stuff to learn
-
+# Hi
+### Iam interrested in music
+## I am learning to code
+## I am looking to collaborate on easy stuff to learn
 
 <!---
 mayayam98/mayayam98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
